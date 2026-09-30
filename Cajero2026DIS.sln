@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36603.0 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cajero2026DIS", "Cajero2026DIS\Cajero2026DIS.csproj", "{8F350A49-D4C7-41C8-A85A-728DC9D23514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cajero.Datos", "Cajero.Datos\Cajero.Datos.csproj", "{E5011E49-177A-4350-8365-B7AD76E5A1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cajero.Negocio", "Cajero.Negocio\Cajero.Negocio.csproj", "{B6A7E6E7-925E-403A-A211-320689A00AC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8F350A49-D4C7-41C8-A85A-728DC9D23514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F350A49-D4C7-41C8-A85A-728DC9D23514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F350A49-D4C7-41C8-A85A-728DC9D23514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5011E49-177A-4350-8365-B7AD76E5A1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5011E49-177A-4350-8365-B7AD76E5A1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5011E49-177A-4350-8365-B7AD76E5A1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5011E49-177A-4350-8365-B7AD76E5A1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A7E6E7-925E-403A-A211-320689A00AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A7E6E7-925E-403A-A211-320689A00AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A7E6E7-925E-403A-A211-320689A00AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A7E6E7-925E-403A-A211-320689A00AC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
